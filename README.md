@@ -22,7 +22,7 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 
 ## Citation
 If you use the data or code from this project in your research, please cite it as follows:
-> Authors. (Year). Phylochemical Mapping. DOI: URL
+> Busta, L., Hall, D., Johnson, B., Schaut, M., Hanson, C.M., Gupta, A., Gundrum, M., Wang, Y. and A. Maeda, H., 2024. Mapping of specialized metabolite terms onto a plant phylogeny using text mining and large language models. The Plant Journal.
 
 For any further inquiries, please open an issue or contact the repository maintainers directly.
 
